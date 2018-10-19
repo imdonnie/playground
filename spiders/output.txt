@@ -1,0 +1,180 @@
+TP-Link Archer C2 AC750 v1	MediaTek MT7620A	1	580	Realtek RTL8367RB	MediaTek MT7620A	b/g/n	a/n/ac	-	8	64	-	2	12 VDC, 1.5 A	-	5
+TP-Link Archer C20 AC750 v1	MediaTek MT7620A	1	580	MediaTek MT7620A	MediaTek MT7620A	b/g/n	a/n/ac	-	8	64	3x3 MIMO, 2 x 2.4GHz Antennas, 1 x 5GHz Antenna	-	12 VDC, 1.0 A	5	-
+TP-Link Archer C20 AC750 v4	MediaTek MT7628AN	1	580	MediaTek MT7628AN	MediaTek MT7628AN	b/g/n	a/n/ac	-	8	64	3x3 MIMO, 2 x 2.4GHz Antennas, 1 x 5GHz Antenna	-	9 VDC, 0.6 A	5	-
+TP-Link Archer C20i AC750 v1	MediaTek MT7620A	1	580	MediaTek MT7620A	MediaTek MT7620A	b/g/n	a/n/ac	-	8	64	3x3 MIMO	-	12 VDC, 1.0 A	5	-
+TP-Link Archer C25 v1	Qualcomm Atheros QCA9561	1	775	\xc2\xbf	Qualcomm Atheros QCA9561	b/g/n	a/n/ac	-	8	64	-	-	9 VDC, 0.85 A	5	-
+TP-Link Archer C2600 v1.0, v1.1	Qualcomm Atheros IPQ8064	2	1400	Qualcomm Atheros QCA8337	Qualcomm Atheros QCA9980	b/g/n	a/n/ac	-	32	512	4x4	4	12 VDC, 4.0 A	-	5
+TP-Link Archer C5 AC1200 v1	Qualcomm Atheros QCA9558	1	720	Atheros AR8327N	Qualcomm Atheros QCA9558	b/g/n	a/n/ac	-	16	128	3x3	2	12 VDC, 2.5 A	-	5
+TP-Link Archer C5 AC1200 v2	Broadcom BCM47081	1	800	Broadcom BCM47081	Broadcom BCM43217	b/g/n	a/n/ac	-	16	128	3x3	2	12 VDC, 2.5 A	-	5
+TP-Link Archer C50 v1	MediaTek MT7620A	1	580	MediaTek MT7620A	MediaTek MT7620A	b/g/n	a/n/ac	-	8	64	2x2	-	12 VDC, 1.5 A	5	-
+TP-Link Archer C50 v3	MediaTek MT7628AN	1	580	MediaTek MT7628AN	MediaTek MT7628AN	b/g/n	a/n/ac	-	8	64	-	-	9 VDC, 0.85 A	5	-
+TP-Link Archer C58 v1	Qualcomm Atheros QCA9561	1	775	Qualcomm Atheros QCA9561	Qualcomm Atheros QCA9561	b/g/n	a/n/ac	-	8	64	3T3R 2.4 GHz, 2T2R 5 GHz	-	12 VDC, 1.0 A	5	-
+TP-Link Archer C59 v1	Qualcomm Atheros QCA9561	1	775	Qualcomm Atheros QCA9561	Qualcomm Atheros QCA9561/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	a/n/ac	-	16	128	-	-	12 VDC, 1.0 A	5	-
+TP-Link Archer C60 v1	Qualcomm Atheros QCA9561	1	775	Qualcomm Atheros QCA9561	Qualcomm Atheros QCA9561	b/g/n	a/n/ac	-	8	64	-	-	12 VDC, 1.0 A	5	-
+TP-Link Archer C60 v2	Qualcomm Atheros QCA9561	1	775	Qualcomm Atheros QCA9561	Qualcomm Atheros QCA9561	b/g/n	a/n/ac	-	8	64	-	-	12 VDC, 1.0 A	5	-
+TP-Link Archer C7 AC1750 v1, v1.1	Qualcomm Atheros QCA9558	1	720	Atheros AR8327N	Qualcomm Atheros QCA9558	b/g/n	a/n/ac	-	8	128	3x3	3	12 VDC, 2.5 A	-	5
+TP-Link Archer C7 AC1750 v2	Qualcomm Atheros QCA9558	1	720	Atheros AR8327N	Qualcomm Atheros QCA9558	b/g/n	a/n/ac	-	16	128	3x3	3	12 VDC, 2.5 A	-	5
+TP-Link Archer C7 AC1750 v4	Qualcomm Atheros QCA9563	1	775	Qualcomm Atheros QCA8337N	Qualcomm Atheros QCA9563	b/g/n	a/n/ac	-	16	128	-	3	12 VDC, 2.0 A	-	5
+TP-Link Archer C7 v5	Qualcomm Atheros QCA9563	1	750	Qualcomm Atheros QCA8337N	Qualcomm Atheros QCA9563	b/g/n	a/n/ac	-	16	128	-	-	12 VDC, 1.5 A	-	5
+TP-Link Archer C7R WDR7500 v2.0 (CN)	Qualcomm Atheros QCA9558	1	720	\xc2\xbf	Qualcomm Atheros QCA9558	b/g/n	a/n/ac	-	8	128	3x3	\xc2\xbf	\xc2\xbf	-	5
+TP-Link Archer C7R WDR7500 v3.0 (CN)	Qualcomm Atheros QCA9558	1	720	Atheros AR8327N	Qualcomm Atheros QCA9558	b/g/n	a/n/ac	-	8	128	3x3	-	\xc2\xbf	-	5
+TP-Link Archer C7R WDR7500 v4.0 (CN)	Qualcomm Atheros QCA9880	1	720	\xc2\xbf	\xc2\xbf/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	a/n/ac	-	8	128	-	-	12 VDC, 2.0 A	-	5
+TP-Link Archer C7R WDR7500 v5.0 (CN)	Qualcomm Atheros QCA9880	1	720	\xc2\xbf	\xc2\xbf/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	a/n/ac	-	\xc2\xbf	\xc2\xbf	-	-	\xc2\xbf	-	5
+TP-Link Archer C8 v1.0	Broadcom BCM4708	2	800	\xc2\xbf	Broadcom BCM4331	b/g/n	a/n/ac	-	16	128	-	3	\xc2\xbf	-	5
+TP-Link Archer C9 v1	Broadcom BCM4709	2	1000	Broadcom BCM4709	Broadcom BCM4360/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	a/n/ac	-	16	128	3x3 MIMO	3	12 VDC, 3.3 A	-	5
+TP-Link Archer MR200 v1	MediaTek MT7620A	1	580	MediaTek MT7620A	MediaTek MT7620A	b/g/n	a/n/ac	-	8	64	2x2	-	12 VDC, 1.0 A	4	-
+TP-Link Archer VR2600v v1	Qualcomm IPQ8064	2	1400	\xc2\xbf	\xc2\xbf/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	a/n/ac	-	16	512	-	4	12 VDC, 3.3 A	-	5
+TP-Link Archer VR900v v1.0	Broadcom BCM63168, Broadcom BCM4709	2	1000	\xc2\xbf	2x Broadcom BCM4360/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	a/n/ac	-	1span class="sep", /span8span class="sep", /span16	128	-	3	12 VDC, 3.3 A	-	4
+TP-Link CPE210 v1	Atheros AR9344 rev 2	1	560	\xc2\xbf	Atheros AR9344/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	8	64	-	-	Passive PoE via LAN0 (+4,5pins; -7,8pins), 24VDC, 1.0A	2	-
+TP-Link CPE210 v2	Qualcomm Atheros QCA9533	1	650	-	Qualcomm Atheros QCA9533/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	8	64	-	-	16-27 VDC passive PoE	1	-
+TP-Link CPE220 v1	Qualcomm Atheros QCA95xx	1	560	\xc2\xbf	Qualcomm Atheros QCA95xx/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	8	64	-	-	16-27 VDC passive PoE	2	-
+TP-Link CPE510 v1	Atheros AR9350-BC2B	1	560	\xc2\xbf	Atheros AR9350/dddt class="wlan_24ghz"WLAN 2.4GHz	-	a/n	-	8	64	-	-	\xc2\xbf	2	-
+TP-Link EAP120	Atheros AR9344	1	560	Atheros AR8035-A	Atheros AR9344/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	16	32	-	-	PoE 802.3af	-	1
+TP-Link RE200 v1	MediaTek MT7620A	1	580	\xc2\xbf	MediaTek MT7620A	b/g/n	a/n/ac	-	8	64	-	-	100-240 VAC, 0.3 A	1	-
+TP-Link RE350 v1	MediaTek MT7621A	2	880	-	MediaTek MT7603E	b/g/n	a/n/ac	-	8	64	-	-	\xc2\xbf	-	1
+TP-Link RE355 v1	Qualcomm Atheros QCA9558	1	720	Qualcomm Atheros AR8035-A	Qualcomm Atheros QCA9558	b/g/n	a/n/ac	-	8	128	MIMO 3x3	-	100-240 VAC, 0.3 A	-	1
+TP-Link RE450 v1	Qualcomm Atheros QCA9558	1	720	Qualcomm Atheros AR8035-A	Qualcomm Atheros QCA9558	b/g/n	a/n/ac	-	8	128	MIMO 3x3	-	100-240 VAC, 0.3 A	-	1
+TP-Link RE450 v2	Qualcomm Atheros QCA9563	1	775	Qualcomm Atheros AR8033	Qualcomm Atheros QCA9563	b/g/n	a/n/ac	-	8	64	MIMO 3x3	-	100-240 VAC, 0.3 A	-	1
+TP-Link TD-W8960N v1	Broadcom BCM6358	2	300	Broadcom BCM5325E	Broadcom BCM43222/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	4	32	-	2	12 VDC, 1.0 A	4	-
+TP-Link TD-W8960N v1	Broadcom BCM6358	2	300	Broadcom BCM5325E	Broadcom BCM43222/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	4	32	-	2	12 VDC, 1.0 A	4	-
+TP-Link TD-W8960N v3	Broadcom BCM6318	1	333	Broadcom BCM5325E	Broadcom BCM43217/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	8	64	-	-	12 VDC, 1.0 A	4	-
+TP-Link TD-W8960N v3	Broadcom BCM6318	1	333	Broadcom BCM5325E	Broadcom BCM43217/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	8	64	-	-	12 VDC, 1.0 A	4	-
+TP-Link TD-W8960N v5	Broadcom BCM6318	1	333	Broadcom BCM6318	Broadcom BCM43217 (mini-PCIe)/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	8	64	2	2	9 VDC, 0.85 A	4	-
+TP-Link TD-W8960N v5	Broadcom BCM6318	1	333	Broadcom BCM6318	Broadcom BCM43217 (mini-PCIe)/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	8	64	2	2	9 VDC, 0.85 A	4	-
+TP-Link TD-W8968 v3	Broadcom BCM6318	1	333	Broadcom BCM6318	Broadcom BCM43217/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	8	64	-	2	12 VDC, 1.0 A	4	-
+TP-Link TD-W8968 v3	Broadcom BCM6318	1	333	Broadcom BCM6318	Broadcom BCM43217/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	8	64	-	2	12 VDC, 1.0 A	4	-
+TP-Link TD-W8970 v1, v1.2	Lantiq XWAY VRX268	2	500	Lantiq XWAY VRX268	Atheros AR9381/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	8	64	-	3	12 VDC, 1.5 A	-	5
+TP-Link TD-W8970 v1, v1.2	Lantiq XWAY VRX268	2	500	Lantiq XWAY VRX268	Atheros AR9381/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	8	64	-	3	12 VDC, 1.5 A	-	5
+TP-Link TD-W8970 v3.0	Broadcom BCM6362	1	400	Broadcom BCM53125	Broadcom BCM6362/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	16	64	2x2	2	12 VDC, 1.5 A	-	4
+TP-Link TD-W8980 v1	Lantiq XWAY VRX268	2	500	Lantiq PSB 80910	Atheros AR9287	b/g/n	a/n	-	8	64	2.4GHz 2 internal antennas, 5GHz 3 external antennas	3	12 VDC, 1.5 A	-	4
+TP-Link TD-W9980	Lantiq XWAY VRX268	2	500	\xc2\xbf	Atheros AR9287	b/g/n	a/n	-	8	64	-	3	\xc2\xbf	-	4
+TP-Link TL-MR10U v1	Atheros AR9331	1	400	\xc2\xbf	Atheros AR9287 (onboard)\xc2\xbf/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	4	32	-	-	5 VDC (\xc2\xb5USB), 2600 mAh battery	1	-
+TP-Link TL-MR11U v1	Atheros AR9331	1	400	-	Atheros AR9331/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	4	32	-	-	5 VDC (\xc2\xb5USB), 2000 mAh battery	1	-
+TP-Link TL-MR11U v2	Atheros AR9331	1	400	\xc2\xbf	\xc2\xbf/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	4	32	-	-	5 VDC (\xc2\xb5USB), 2000 mAh battery	1	-
+TP-Link TL-MR12U v1	Atheros AR9331	1	400	-	Atheros AR9331/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	4	32	-	-	5 VDC (\xc2\xb5USB), 5200 mAh battery	1	-
+TP-Link TL-MR13U v1	Atheros AR9331	1	400	\xc2\xbf	Atheros AR9331/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	4	32	-	-	5 VDC, 1.0 A (\xc2\xb5USB), 10400 mAh battery	1	-
+TP-Link TL-MR22U v1	Qualcomm Atheros QCA9531	1	560	-	Qualcomm Atheros QCA9531/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	8	32	2x2	-	5 VDC, 1.0 A (\xc2\xb5USB), 5200 mAh battery	1	-
+TP-Link TL-MR3020 v1	Atheros AR9331	1	400	-	Atheros AR9331/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	4	32	-	-	5 VDC, 1.0 A (mini-USB)	1	-
+TP-Link TL-MR3040 v1	Atheros AR9331	1	400	-	Atheros AR9331/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	4	32	-	-	5 VDC, 1.0 A, 2000 mAh battery	1	-
+TP-Link TL-MR3040 v2	Atheros AR9331	1	400	-	Atheros AR9331/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	4	32	-	-	5 VDC, 1.0 A, 2000 mAh battery	1	-
+TP-Link TL-MR3220 v1	Atheros AR7241	1	400	Atheros AR7241	Atheros AR9285/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	4	32	-	1	12 VDC, 1.0 A	5	-
+TP-Link TL-MR3220 v2	Atheros AR9331	1	400	Atheros AR9331	Atheros AR9331/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	4	32	1x1	1	9 VDC, 0.85 A	5	-
+TP-Link TL-MR3420 v1, v1.1, v1.2, v1.3	Atheros AR7241	1	400	Atheros AR7241	Atheros AR9287/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	4	32	-	2	12 VDC, 1.0 A	5	-
+TP-Link TL-MR3420 v2, v2.1, v2.2, v2.3, v2.4	Atheros AR9341	1	535	Atheros AR9341	Atheros AR9341/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	4	32	-	2	12 VDC, 1.0 A	5	-
+TP-Link TL-MR3420 v5	MediaTek MT7628N	1	580	\xc2\xbf	MediaTek MT7628N/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	8	64	-	-	12 VDC, 1.0 A	5	-
+TP-Link TL-MR6400 v1	Qualcomm Atheros QCA9531	1	650	\xc2\xbf	Qualcomm Atheros QCA9531/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	8	64	-	2	12 VDC, 1.0 A	4	-
+TP-Link TL-WA5210G v1	Atheros AR2315	1	180	\xc2\xbf	Atheros (integrated)/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g	-	-	4	16	-	-	12 VDC, 1.0 A	1	-
+TP-Link TL-WA701ND v1.x	Atheros AR7240	1	400	-	Atheros AR9285/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	4	32	-	1	9 VDC, 0.6 A, PoE	1	-
+TP-Link TL-WA701ND v2.x	Atheros AR9331	1	400	-	Atheros AR9285/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	4	32	-	1	9 VDC, 0.6 A, PoE	1	-
+TP-Link TL-WA7210N v2	\xc2\xbf	1	400	-	\xc2\xbf/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	4	32	-	\xc2\xbf	PoE 12 VDC, 1.0 A	1	-
+TP-Link TL-WA730RE v1	Atheros AR7240	1	350	-	Atheros AR9285/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	4	32	-	1	9 VDC, 0.85 A	1	-
+TP-Link TL-WA750RE v1	Atheros AR9341	1	500	-	Atheros AR9341/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	4	32	-	-	100-240 VAC, 0.3 A	1	-
+TP-Link TL-WA7510N v1	Atheros AR7240	1	350	-	Atheros AR9280/dddt class="wlan_24ghz"WLAN 2.4GHz	-	a/n	-	4	32	-	-	12 VDC, 1.0 A	1	-
+TP-Link TL-WA801ND v1	Atheros AR7240	1	400	-	Atheros AR9283/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	4	32	-	2	12 VDC, 1.0 A	1	-
+TP-Link TL-WA801ND v2	Atheros AR9341 rev 3	1	535	-	Atheros AR9341/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	4	32	-	2	9 VDC, 0.85 A, passive PoE	1	-
+TP-Link TL-WA801ND v3	Qualcomm Atheros QCA9533-BL3A	1	560	-	Qualcomm Atheros QCA9533/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	4	32	-	2	9 VDC, 0.6 A, PoE	1	-
+TP-Link TL-WA801ND v5	MediaTek MT7628NN	1	580	-	MediaTek MT7628N/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	8	64	-	2	9 VDC, 0.6 A, passive PoE	1	-
+TP-Link TL-WA830RE v1	Atheros AR7240	1	400	-	Atheros AR9280/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	4	32	-	2	12 VDC, 1.0 A	1	-
+TP-Link TL-WA830RE v2	Atheros AR9341	1	535	-	Atheros AR9341/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	4	32	-	2	9 VDC, 0.6 A	1	-
+TP-Link TL-WA850RE v1	Atheros AR9341	1	535	-	Atheros AR9341/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	4	32	-	-	100-240 VAC, 0.3 A	1	-
+TP-Link TL-WA850RE v2	Qualcomm Atheros QCA9533	1	550	-	Atheros AR9341/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	4	32	-	-	100-240 VAC, 50-60 Hz, 0.3 A	1	-
+TP-Link TL-WA855RE v1	Qualcomm Atheros QCA9533 v2	1	550	-	Qualcomm Atheros QCA9533 v2/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	4	32	2T2R 2.4 GHz	-	\xc2\xbf	1	-
+TP-Link TL-WA860RE v1 (EU)	Atheros AR9341	1	535	-	Atheros AR9341/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	4	32	-	-	100-240 VAC, 0.3 A	1	-
+TP-Link TL-WA901ND v1	Atheros AR7240	1	400	Atheros AR5416	Atheros AR9285/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	4	32	-	3	\xc2\xbf	1	-
+TP-Link TL-WA901ND v2	Atheros AR9132	1	400	Realtek RTL8201	Atheros AR5416/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	4	32	-	3	12 VDC, 1.0 A	1	-
+    
+TP-Link TL-WA901ND v3	Atheros AR9341	1	533	-	Atheros AR5416/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	4	32	2x2	3	9 VDC, 0.85 A, PoE	1	-
+TP-Link TL-WA901ND v4	Qualcomm Atheros TP9343	1	750	Qualcomm Atheros TP9343	Atheros AR9380/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	4	32	-	3	12 VDC, 1.0 A, PoE	1	-
+TP-Link TL-WA901ND v5	Qualcomm Atheros TP9343	1	750	Qualcomm Atheros TP9343	Atheros AR9380/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	4	32	-	3	12 VDC, 1.0 A, PoE	1	-
+TP-Link TL-WDR3320 v2	Atheros AR9344	1	560	Atheros AR9344	Atheros AR9344	b/g/n	a/n	-	4	64	-	-	\xc2\xbf	5	-
+TP-Link TL-WDR3500 v1	Atheros AR9344	1	560	Atheros AR9344	Atheros AR9344	b/g/n	a/n	-	8	128	-	2	\xc2\xbf	5	-
+TP-Link TL-WDR3500 v1	Atheros AR9344	1	560	Atheros AR9344	Atheros AR9344	b/g/n	a/n	-	8	128	-	2	\xc2\xbf	5	-
+TP-Link TL-WDR3600 1.1, 1.2, 1.3, 1.4, 1.5	Atheros AR9344	1	560	Atheros AR8327N	Atheros AR9344	b/g/n	a/n	-	8	128	2x2 MIMO 2.4GHz, 2x2 MIMO 5GHz, ath9k	2	12 VDC, 1.5 A	-	5
+TP-Link TL-WDR4300 1.0, 1.1, 1.2, 1.3, 1.4, 1.5, 1.6, 1.7	Atheros AR9344	1	560	Atheros AR8327N	Atheros AR9344	b/g/n	a/n	-	8	128	-	3	12 VDC, 1.5 A	-	5
+TP-Link TL-WDR4310 v1.0	Atheros AR9344	1	560	Atheros AR8327N	Atheros AR9344	b/g/n	a/n	-	8	128	-	3	12 VDC, 1.5 A	-	5
+TP-Link TL-WDR4310 v1.0	Atheros AR9344	1	560	Atheros AR8327N	Atheros AR9344	b/g/n	a/n	-	8	128	-	3	12 VDC, 1.5 A	-	5
+TP-Link TL-WDR4900 1.0, 1.3	Freescale P1014	1	800	Atheros AR8327N	Atheros AR9381	b/g/n	a/n	-	16	128	-	3	12 VDC, 2.5 A	-	5
+TP-Link TL-WDR4900 1.0, 1.3	Freescale P1014	1	800	Atheros AR8327N	Atheros AR9381	b/g/n	a/n	-	16	128	-	3	12 VDC, 2.5 A	-	5
+TP-Link TL-WDR4900 2.0 (CN)	Qualcomm Atheros QCA9558	1	720	Atheros AR8327N	Qualcomm Atheros QCA9558	b/g/n	a/n	-	8	128	-	6	12 VDC, 1.5 A / 2.5 A	-	5
+TP-Link TL-WDR4900 2.0 (CN)	Qualcomm Atheros QCA9558	1	720	Atheros AR8327N	Qualcomm Atheros QCA9558	b/g/n	a/n	-	8	128	-	6	12 VDC, 1.5 A / 2.5 A	-	5
+TP-Link TL-WDR6500 v2	Qualcomm Atheros QCA956X	1	750	Qualcomm Atheros QCA956X	Qualcomm Atheros QCA9561	b/g/n	a/n/ac	-	8	128	3x3 for 2.4GHz, 2x2 for 5GHz	-	12 VDC, 1.0 A	4	-
+TP-Link TL-WPA8630	Qualcomm Atheros QCA9563	1	750	Qualcomm Atheros QCA8337	Qualcomm Atheros QCA9563	b/g/n	a/n/ac	-	8	128	-	-	230 VAC	-	3
+TP-Link TL-WR1041N v2	Atheros AR9342	1	560	Atheros AR8327	Atheros AR9342/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	4	32	-	-	9 VDC, 0.85 A	-	5
+TP-Link TL-WR1041ND v2	Atheros AR9342	1	525	\xc2\xbf	Atheros AR9342/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	4	32	-	2	\xc2\xbf	-	5
+TP-Link TL-WR1043N v5	Qualcomm Atheros QCA9563	1	775	Qualcomm Atheros QCA8337	Qualcomm Atheros QCA9563/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	16	64	-	-	9 VDC, 0.85 A	-	5
+TP-Link TL-WR1043ND v1.x	Atheros AR9132	1	400	Realtek RTL8366RB	Atheros AR9103/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	8	32	3x3	3	12 VDC, 1.5 A	-	5
+TP-Link TL-WR1043ND v2.x	Qualcomm Atheros QCA9558	1	720	Atheros AR8327N	Qualcomm Atheros QCA9558/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	8	64	[bgn 3x3]	3	12 VDC, 1.5 A	-	5
+TP-Link TL-WR1043ND v3.x	Qualcomm Atheros QCA9558	1	720	Atheros AR8327N	Qualcomm Atheros QCA9558/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	8	64	3x3	3	12 VDC, 1.5 A	-	5
+TP-Link TL-WR1043ND v4.x	Qualcomm Atheros QCA9563	1	750	Atheros AR8337N	Qualcomm Atheros QCA9563/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	16	64	-	3	12 VDC, 1.5 A	-	5
+TP-Link TL-WR2543ND v1.0	Atheros AR7242	1	400	Realtek RTL8367R	Atheros AR9380/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	a/n	-	8	64	-	3	12 VDC, 1.5 A	-	5
+TP-Link TL-WR703N v1	Atheros AR9331	1	400	-	Atheros AR9331/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	4	32	-	-	5 VDC, 1.0 A	1	-
+TP-Link TL-WR710N v1.0 (US)	Atheros AR9331	1	400	Atheros AR9331	Atheros AR9331/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	8	32	-	-	\xc2\xbf	2	-
+TP-Link TL-WR710N v1.1 (EU)	Atheros AR9331	1	400	Atheros AR9331	Atheros AR9331/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	8	32	-	-	100-240 VAC, 50/60 Hz, 0.3 A	2	-
+TP-Link TL-WR710N v1.2 (EU)	Atheros AR9331	1	400	Yes, serving LAN port only (eth1)	Atheros AR9331/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	8	32	-	-	100-240 VAC, 50/60 Hz	2	-
+TP-Link TL-WR710N v2.0 (EU)	Atheros AR9331	1	400	Yes, serving LAN port only (eth1)	Atheros AR9331/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	4	32	-	-	100-240 VAC, 50/60 Hz, 0.3 A	2	-
+TP-Link TL-WR710N v2.1 (EU)	Atheros AR9331	1	400	Yes, serving LAN port only (eth1)	Atheros AR9331/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	8	32	-	-	100-240 VAC, 50/60 Hz, 0.3 A	2	-
+TP-Link TL-WR720N v3 (CN)	Atheros AR9331	1	400	\xc2\xbf	Atheros AR9331/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	4	32	-	-	\xc2\xbf	2	-
+TP-Link TL-WR720N v4 (CN)	Atheros AR9331	1	400	\xc2\xbf	Atheros AR9331/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	4	32	-	-	\xc2\xbf	2	-
+TP-Link TL-WR740N v1	Atheros AR7240	1	400	Atheros AR7240	Atheros AR92xx/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	4	32	-	-	9 VDC, 0.85 A	5	-
+TP-Link TL-WR740N v2.1 (BR)	Atheros AR7240	1	400	\xc2\xbf	\xc2\xbf/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	2	32	-	-	\xc2\xbf	5	-
+TP-Link TL-WR740N v3	Atheros AR7240	1	400	Atheros AR7240	Atheros AR92xx/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	4	32	-	-	\xc2\xbf	5	-
+TP-Link TL-WR740N v4.20, v4.21, v4.22, v4.25, v4.26, v4.27	Atheros AR9331	1	400	Atheros AR9331	Atheros AR9331/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	4	32	-	-	9 VDC, 0.6 A	5	-
+TP-Link TL-WR740N v4.23, v4.24	Atheros AR9330 rev 1	1	400	Atheros AR9331	Atheros AR9330 rev 1/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	4	32	-	-	9 VDC, 0.6 A	5	-
+TP-Link TL-WR740N v5 (EU)	Atheros AR9331	1	\xc2\xbf	\xc2\xbf	\xc2\xbf/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	4	32	-	-	\xc2\xbf	4	-
+TP-Link TL-WR740N v5.1 (UA)	Atheros AR9331-AL3A	1	400	\xc2\xbf	\xc2\xbf/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	\xc2\xbf	-	4	32	-	-	\xc2\xbf	5	-
+TP-Link TL-WR740N v6	Qualcomm Atheros QCA9533	1	560	\xc2\xbf	Qualcomm Atheros QCA9533/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	4	32	-	-	5 VDC	5	-
+TP-Link TL-WR741ND 1, 1.8	Atheros AR7240	1	400	\xc2\xbf	Atheros AR92xx/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	4	32	-	1	\xc2\xbf	5	-
+TP-Link TL-WR741ND 1.4, 1.5, 1.9, 3	Atheros AR7240	1	350	Atheros AR7240	Atheros AR92xx (onboard)/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	4	32	-	1	9 VDC, 0.85 A	5	-
+TP-Link TL-WR741ND v2	Atheros AR7240 rev 2	1	350	\xc2\xbf	\xc2\xbf/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	4	32	-	1	5 VDC, 0.6 A	5	-
+TP-Link TL-WR741ND v4.x	Atheros AR9331	1	400	Atheros AR9331	Atheros AR9331/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	4	32	-	1	9 VDC, 0.6 A	5	-
+TP-Link TL-WR741ND v5	Atheros AR9331	1	400	\xc2\xbf	Atheros AR9331/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	4	32	-	1	\xc2\xbf	5	-
+TP-Link TL-WR743ND v1, v1.1	Atheros AR7240	1	350	Atheros AR7240	Atheros AR92xx/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	4	32	-	1	9 VDC, 0.85 A	5	-
+TP-Link TL-WR743ND v2	Atheros AR7240	1	350	Atheros AR7240	\xc2\xbf/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	4	32	-	1	9 VDC, 0.6 A	5	-
+TP-Link TL-WR800N 1.0	Atheros AR9341	1	535	\xc2\xbf	Atheros AR9341 (integrated)/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	4	16	-	-	\xc2\xbf	1	-
+TP-Link TL-WR800N 1.0	Atheros AR9341	1	535	\xc2\xbf	Atheros AR9341 (integrated)/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	4	16	-	-	\xc2\xbf	1	-
+TP-Link TL-WR802N v1.0	Qualcomm Atheros QCA9533-AL3A	1	550	-	Qualcomm Atheros QCA9533/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	4	32	-	-	5 VDC, 0.55 A	1	-
+TP-Link TL-WR802N v2	Qualcomm Atheros QCA9533	1	560	-	Qualcomm Atheros QCA9533/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	4	32	-	-	5 VDC	1	-
+TP-Link TL-WR802N v4	MediaTek MT7628N	1	580	MediaTek MT7628N	MediaTek MT7628N/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	8	64	-	-	5 VDC, 1.0 A (\xc2\xb5USB)	1	-
+TP-Link TL-WR810N v1.0 (US)	Qualcomm Atheros QCA9531	1	650	Qualcomm Atheros QCA9531	Qualcomm Atheros QCA9531/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	8	64	-	-	100-240 VAC, 50/60 Hz, 0.3 A	2	-
+TP-Link TL-WR810N v1.1 (EU)	Qualcomm Atheros QCA9531	1	650	Qualcomm Atheros QCA9531	Qualcomm Atheros QCA9531/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	8	64	-	-	230 VAC	2	-
+TP-Link TL-WR810N v2	Qualcomm Atheros QCA9533	1	650	\xc2\xbf	Qualcomm Atheros QCA9533/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	8	32	-	-	\xc2\xbf	2	-
+TP-Link TL-WR840N v2	Qualcomm Atheros QCA9533	1	650	Qualcomm Atheros QCA9533	Qualcomm Atheros QCA9533/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	4	32	-	-	9 VDC, 0.6 A	5	-
+TP-Link TL-WR840N v3	Qualcomm Atheros QCA9533	1	650	Qualcomm Atheros QCA9533	Qualcomm Atheros QCA9533/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	4	32	-	-	9 VDC, 0.6 A	5	-
+TP-Link TL-WR840N v4	MediaTek MT7628N	1	580	MediaTek MT7628N	MediaTek MT7628N/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	8	64	2T2R 2.4 GHz	-	9 VDC, 0.6 A	5	-
+TP-Link TL-WR840N v5	MediaTek MT7628N	1	580	MediaTek MT7628N	MediaTek MT7628N/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	4	64	-	-	9 VDC, 0.6 A	5	-
+TP-Link TL-WR841N v13	MediaTek MT7628N	1	580	MediaTek MT7628N	MediaTek MT7628N/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	8	64	2T2R 2.4 GHz	-	9 VDC, 0.6 A	5	-
+TP-Link TL-WR841N(D) 1, 1.5	Atheros AR7130	1	300	Marvell 88E6063	Atheros AR5416 (mini-PCI)/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	4	32	-	-	\xc2\xbf	5	-
+TP-Link TL-WR841N(D) v10	Qualcomm Atheros QCA9533-BL3A	1	560	Qualcomm Atheros QCA9533-BL3A	Qualcomm Atheros QCA9533-BL3A/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	4	32	-	-	9 VDC, 0.6 A	5	-
+TP-Link TL-WR841N(D) v11	Qualcomm Atheros QCA9533	1	560	Qualcomm Atheros QCA9533	Qualcomm Atheros QCA9533/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	4	32	-	-	9 VDC, 0.85 A	5	-
+TP-Link TL-WR841N(D) v12	Qualcomm Atheros QCA9533	1	560	Qualcomm Atheros QCA9533	Qualcomm Atheros QCA9533/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	4	32	-	-	9 VDC, 0.85 A	5	-
+TP-Link TL-WR841N(D) v3	Atheros AR9132	1	400	Marvell 88E6060	Atheros AR9132/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	4	32	-	2	12 VDC, 1.0 A	5	-
+TP-Link TL-WR841N(D) v5	Atheros AR7240	1	400	Atheros AR7240	Atheros AR9280/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	4	32	-	2	9 VDC, 0.85 A	5	-
+TP-Link TL-WR841N(D) v7	Atheros AR7241	1	400	Atheros AR7241	Atheros AR9287/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	4	32	-	-	9 VDC, 0.6 A	5	-
+TP-Link TL-WR841N(D) v8	Atheros AR9341	1	535	Atheros AR9341	Atheros AR9341/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	4	32	-	-	9 VDC, 0.6 A	5	-
+TP-Link TL-WR841N(D) v9	Qualcomm Atheros QCA9533-AL3A	1	550	Qualcomm Atheros QCA9533-AL3A	Qualcomm Atheros QCA9533-AL3A/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	4	32	MIMO 2x2	-	9 VDC, 0.6 A	5	-
+TP-Link TL-WR842N V5	MediaTek MT7628NN	1	580	\xc2\xbf	MediaTek MT728NN/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	8	64	-	-	\xc2\xbf	5	-
+TP-Link TL-WR842N v3	Qualcomm Atheros QCA9531	1	650	\xc2\xbf	Qualcomm Atheros QCA9531/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	16	64	-	-	12 VDC, 1.0 A	5	-
+TP-Link TL-WR842ND v1	Atheros AR7241	1	400	Atheros AR7241	Atheros AR9287/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	8	32	-	2	12 VDC, 1.0 A	5	-
+TP-Link TL-WR842ND v2	Atheros AR9341	1	535	Atheros AR9341	Atheros AR9341/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	8	32	-	2	12 VDC, 1.0 A	5	-
+TP-Link TL-WR843ND v1	Atheros AR9341	1	535	Atheros AR9341	Atheros AR9341/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	4	32	-	2	9 VDC, 0.85 A	5	-
+TP-Link TL-WR847N v8	Atheros AR9341	1	535	Atheros AR9341	Atheros AR9341/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	4	32	-	-	9 VDC, 0.6 A	5	-
+TP-Link TL-WR849N v4.0 (BR)	MediaTek MT7628N	1	580	MediaTek MT7628N	\xc2\xbf/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	8	64	-	-	9 VDC, 0.6 A	5	-
+TP-Link TL-WR902AC v1	Qualcomm Atheros QCA9531	1	650	-	Qualcomm Atheros QCA9531	b/g/n	a/n/ac	-	8	64	2T2R 2.4 GHz, 1T1R 5 GHz	-	5 VDC, 2.0 A	1	-
+TP-Link TL-WR902AC v3	MediaTek MT7628AN	1	580	-	MediaTek MT7628AN	b/g/n	a/n/ac	-	8	64	-	-	5 VDC, 2.0 A (\xc2\xb5USB)	1	-
+TP-Link TL-WR940N v1	Atheros AR7240 rev 2	1	400	Atheros AR7240	Atheros AR9283/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	4	32	-	-	9 VDC, 0.85 A	5	-
+TP-Link TL-WR940N v2	Atheros AR9341	1	535	Atheros AR9341	Atheros AR9341/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	4	32	-	-	9 VDC, 0.6 A	5	-
+TP-Link TL-WR940N v3	Qualcomm Atheros TP9343	1	750	Qualcomm Atheros TP9343	Qualcomm Atheros TP9343/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	4	32	-	-	12 VDC, 1.0 A	5	-
+TP-Link TL-WR940N v4	Qualcomm Atheros TP9343	1	750	Qualcomm Atheros TP9343	Qualcomm Atheros TP9343/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	4	32	-	-	9 VDC, 0.6 A	5	-
+TP-Link TL-WR940N v5	Qualcomm Atheros TP9343	1	750	Qualcomm Atheros TP9343	Qualcomm Atheros TP9343/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	4	32	-	-	9 VDC, 0.6 A	5	-
+TP-Link TL-WR940N v6	Qualcomm Atheros TP9343	1	750	Qualcomm Atheros TP9343	Qualcomm Atheros TP9343/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	4	32	-	-	9 VDC, 0.6 A	5	-
+TP-Link TL-WR941N v6 (CN)	Atheros AR9344	1	\xc2\xbf	\xc2\xbf	Atheros AR9381/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	\xc2\xbf	\xc2\xbf	-	\xc2\xbf	\xc2\xbf	\xc2\xbf	\xc2\xbf
+TP-Link TL-WR941ND v2	Atheros AR9132	1	400	Marvell 88E6060	Atheros AR9132/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	4	32	-	3	12 VDC, 1.0 A	5	-
+TP-Link TL-WR941ND v3	Atheros AR9132	1	400	Marvell 88E6060	Atheros AR9132/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	4	32	-	3	9 VDC, 0.85 A	5	-
+TP-Link TL-WR941ND v3.2	Atheros AR9132	1	400	Switch: Marvell 88E6060	Atheros AR9132/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	4	32	-	3	9 VDC, 0.85 A	5	-
+TP-Link TL-WR941ND v4	Atheros AR7240	1	400	Atheros AR7240	Atheros AR9283/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	4	32	-	3	12 VDC, 1.0 A	5	-
+TP-Link TL-WR941ND v5	Atheros AR9341	1	535	Atheros AR9341	Atheros AR9341/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	4	32	-	3	9 VDC, 0.6 A	5	-
+TP-Link TL-WR941ND v6	Qualcomm TP9343	1	750	Qualcomm Atheros TP9343	Qualcomm Atheros QCA9561/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	4	32	-	3	12 VDC, 1.0 A	5	-
+TP-Link TL-WR942N v1	Qualcomm Atheros QCA9561	1	775	Qualcomm Atheros QCA9561	Qualcomm Atheros QCA9561/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	16	128	3x3	-	12 VDC, 1.5 A	5	-
+TP-Link VR200v	Lantiq XWAY VRX288	2	500	Internal configurable (Infineon)	Lantiq XWAY WAVE300	b/g/n	a/n/ac	-	16	128	-	3	12 VDC, 2.5 A	-	4
+TP-Link WBS210 v1	Qualcomm Atheros AR9350B	1	560	\xc2\xbf	\xc2\xbf/dddt class="wlan_24ghz"WLAN 2.4GHz	b/g/n	-	-	8	64	-	2	16-27 VDC, PoE	2	-
+TP-Link WBS510 v1	Qualcomm Atheros AR9350B	1	560	\xc2\xbf	\xc2\xbf/dddt class="wlan_24ghz"WLAN 2.4GHz	-	a/n	-	8	64	-	2	16-27 VDC, PoE	2	-

@@ -1,0 +1,1 @@
+cp .\tmp\allfuncs\FUNCTION@[set_blackbg_theme].c  -destination .\jail\FUNCTION@[set_blackbg_theme]-FUNCTION@[set_classic_theme]-100

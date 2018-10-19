@@ -1,0 +1,9 @@
+for /r D:/route_project/atpbuild %i in (*.c) do @echo %i >> D:/python_scripts/code_compare/cfile.txt
+
+sim_c.exe -p -R -e -T test/FUNCTION@[strhash].c / test
+
+cpd --language cpp --minimmum-tokens 20 --files D:/python_scripts/code_compare/stests
+
+cp .\tmp\allfuncs\FUNCTION@[].c .\stest\
+
+cp FUNCTION@[my_getpwnam].c .\stest
